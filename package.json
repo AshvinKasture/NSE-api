@@ -10,8 +10,10 @@
   "author": "Ashvin Kasture",
   "license": "MIT",
   "dependencies": {
+    "config": "^3.3.7",
     "express": "^4.17.2",
-    "express-validator": "^6.14.0"
+    "express-validator": "^6.14.0",
+    "finnhub": "^1.2.9"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
