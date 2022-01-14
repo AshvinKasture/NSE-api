@@ -1,0 +1,19 @@
+{
+  "name": "nseapi",
+  "version": "1.0.0",
+  "description": "This is an api for NSE to get company names and symbols",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashvin Kasture",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
